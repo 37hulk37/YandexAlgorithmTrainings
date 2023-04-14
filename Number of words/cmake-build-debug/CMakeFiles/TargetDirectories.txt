@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/ACMP/Number of words/cmake-build-debug/CMakeFiles/Number_of_words.dir
+C:/Users/user/CLionProjects/ACMP/Number of words/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/ACMP/Number of words/cmake-build-debug/CMakeFiles/rebuild_cache.dir

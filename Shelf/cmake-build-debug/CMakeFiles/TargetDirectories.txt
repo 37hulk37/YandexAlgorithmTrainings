@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/ACMP/Shelf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/ACMP/Shelf/cmake-build-debug/CMakeFiles/acmp.dir
+C:/Users/user/CLionProjects/ACMP/Shelf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/ACMP/Points and Lines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/ACMP/Points and Lines/cmake-build-debug/CMakeFiles/Points_and_Lines.dir
+C:/Users/user/CLionProjects/ACMP/Points and Lines/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/ACMP/intersection of many/cmake-build-debug/CMakeFiles/intersection_of_many.dir
+C:/Users/user/CLionProjects/ACMP/intersection of many/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/ACMP/intersection of many/cmake-build-debug/CMakeFiles/rebuild_cache.dir

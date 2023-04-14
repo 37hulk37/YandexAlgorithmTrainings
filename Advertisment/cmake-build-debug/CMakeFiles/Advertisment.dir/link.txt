@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Advertisment.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Advertisment.dir/objects.a @CMakeFiles\Advertisment.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Advertisment.dir/objects.a -Wl,--no-whole-archive -o Advertisment.exe -Wl,--out-implib,libAdvertisment.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Advertisment.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/ACMP/Sapper/cmake-build-debug/CMakeFiles/Sapper.dir
+C:/Users/user/CLionProjects/ACMP/Sapper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/ACMP/Sapper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
